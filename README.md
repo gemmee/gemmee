@@ -1,24 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gamachu Abara</h1>
-<h3 align="center">A passionate software engineering student from Ethiopia</h3>
+<h3 align="center">A Software Engineer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gemmee&label=Profile%20views&color=0e75b6&style=flat" alt="gemmee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gemmee" alt="gemmee" /></a> </p>
 
-- 🔭 I’m currently working on **Shell project**
 
-- 🌱 I’m currently learning **Assembly language**
-
-- 👯 I’m looking to collaborate on **Any c related project**
-
-- 🤝 I’m looking for help with **Assembly language**
-
-- 💬 Ask me about **c, python, java**
-
-- 📫 How to reach me **jr.gamachu@gmail.com**
-
-- ⚡ Fun fact **I am not funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
